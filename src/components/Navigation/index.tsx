@@ -6,7 +6,7 @@ export const Navigation = () => {
 
             <header>
                 <nav className="navbar">
-                    <h3 className="logo">KruzusTV</h3>
+                    <h3 className="logo">LOGO</h3>
                     <ul className="nav_links">
                         <li>Link A</li>
                         <li>Link B</li>
