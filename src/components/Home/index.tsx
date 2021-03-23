@@ -10,7 +10,7 @@ export const Home = () => {
     const [name, setName] = useState("")
 
 
-    const handleChange = (e) => {
+    const handleChange = (e: any) => {
         const val = e.target.value;
         if (Filter.test(val)) {
             setName(e.target.value)
